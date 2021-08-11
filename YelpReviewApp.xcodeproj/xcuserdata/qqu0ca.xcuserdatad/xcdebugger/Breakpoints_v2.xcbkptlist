@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F6A6E2E3-BCCF-4230-A6E9-0F21909A05B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E42CD73-7E4D-40AF-8B60-D158505A958F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchBusinesses(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83777616-208A-41DB-BBAC-6CD04C3A5A25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchBusinesses(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83777616-208A-41DB-BBAC-6CD04C3A5A25 - e451e0a14a8e4e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YelpReviewApp.YelpClient.fetchBusinesses(with: YelpReviewApp.BusinessRequest, completion: (YelpReviewApp.Result&lt;YelpReviewApp.BusinessResponse, YelpReviewApp.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YelpReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qqu0ca/Documents/backup/YelpReviewApp/YelpReviewApp/Networking/YelpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "761">
+               </Location>
+               <Location
+                  uuid = "83777616-208A-41DB-BBAC-6CD04C3A5A25 - f35bdf7bdb62284b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in YelpReviewApp.YelpClient.fetchBusinesses(with: YelpReviewApp.BusinessRequest, completion: (YelpReviewApp.Result&lt;YelpReviewApp.BusinessResponse, YelpReviewApp.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YelpReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qqu0ca/Documents/backup/YelpReviewApp/YelpReviewApp/Networking/YelpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F491E88A-37BC-47AF-8BAD-EEAA54D336AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchBusinesses(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E59A4761-D98D-4405-91C0-9D60FECC20EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchBusinesses(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F78950E-1711-4A77-AA30-77E0B251C377"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Controllers/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "830021C4-8E15-4599-9720-8DE275CD4587"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetchDetails(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "830021C4-8E15-4599-9720-8DE275CD4587 - 886eb1feb0eed1a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YelpReviewApp.YelpClient.fetchDetails(with: YelpReviewApp.DetailRequest, completion: (YelpReviewApp.Result&lt;YelpReviewApp.Detail, YelpReviewApp.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YelpReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qqu0ca/Documents/backup/YelpReviewApp/YelpReviewApp/Networking/YelpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "830021C4-8E15-4599-9720-8DE275CD4587 - 6988212835177ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in YelpReviewApp.YelpClient.fetchDetails(with: YelpReviewApp.DetailRequest, completion: (YelpReviewApp.Result&lt;YelpReviewApp.Detail, YelpReviewApp.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YelpReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qqu0ca/Documents/backup/YelpReviewApp/YelpReviewApp/Networking/YelpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "251">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62915287-2703-49F1-8DDE-FDD23A65E3B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchDetails(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A750AC37-E8B1-4B20-8C29-02BEEE720299"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchDetails(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C8A5EE2-F34D-4A91-BA09-CA527833D70D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Controllers/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92F3E187-4D23-40E6-92E2-6EC4E7C9B628"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/ViewModels/BusinessViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchBusinesses()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B61B8592-3073-40BA-B7CA-63B0A02ED807"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchBusinesses(with:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FF84DC7-D973-40A5-B437-6370CDAACC11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Controllers/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "onFetchFailed(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB841ED6-CD43-435F-A0F3-1738EEB878C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YelpReviewApp/Networking/YelpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchBusinesses(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB841ED6-CD43-435F-A0F3-1738EEB878C5 - e451e0a14a8e4e90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "YelpReviewApp.YelpClient.fetchBusinesses(with: YelpReviewApp.BusinessRequest, completion: (YelpReviewApp.Result&lt;YelpReviewApp.BusinessResponse, YelpReviewApp.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YelpReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qqu0ca/Documents/backup/YelpReviewApp/YelpReviewApp/Networking/YelpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "761">
+               </Location>
+               <Location
+                  uuid = "DB841ED6-CD43-435F-A0F3-1738EEB878C5 - f35bdf7bdb62284b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in YelpReviewApp.YelpClient.fetchBusinesses(with: YelpReviewApp.BusinessRequest, completion: (YelpReviewApp.Result&lt;YelpReviewApp.BusinessResponse, YelpReviewApp.DataResponseError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "YelpReviewApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qqu0ca/Documents/backup/YelpReviewApp/YelpReviewApp/Networking/YelpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
